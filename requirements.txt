@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+gtts
+pydub
+speechrecognition
